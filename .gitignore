@@ -1,0 +1,4 @@
+*.docx
+resource/
+video/
+.DS_Store
